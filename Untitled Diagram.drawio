@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-12T08:49:29.403Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36 Edg/90.0.818.56" etag="ZsHMjsN52RIF0TDHO06i" version="14.6.12" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-12T08:54:24.805Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36 Edg/90.0.818.56" etag="KEMbvcoyAL2MFKrnrfDL" version="14.6.12" type="github">
   <diagram id="EyykRgJbTBzst2TbG_7H" name="Page-1">
     <mxGraphModel dx="1278" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -38,6 +38,14 @@
         </mxCell>
         <mxCell id="wmIor--7g2cavVn0_L6w-48" value="&lt;br&gt;&lt;span&gt;-Tercer modo de juego:Se introducen manualmente los nombre, el usuario elige que 2 bots se enfrentan.&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Georgia;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="670" y="450" width="250" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wmIor--7g2cavVn0_L6w-49" value="en el caso que se elijan dos nombres incorrectos el programa te avisará del error, pidiéndote que los vuelvas a introducir" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};fontFamily=Georgia;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="970" y="350" width="280" height="135" as="geometry" />
+        </mxCell>
+        <mxCell id="wmIor--7g2cavVn0_L6w-50" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;fontFamily=Georgia;fontSize=15;exitX=1.003;exitY=0.905;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" target="wmIor--7g2cavVn0_L6w-49" parent="1" source="wmIor--7g2cavVn0_L6w-36">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="750" y="400" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
