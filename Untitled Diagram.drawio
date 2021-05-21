@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-21T11:10:38.983Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36 Edg/90.0.818.62" etag="i9R6aPsvm9U_TCwfzci8" version="14.6.13" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-21T13:05:32.743Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36 Edg/90.0.818.62" etag="tjdBcsoU3lOgMcYoPML7" version="14.6.13" type="github">
   <diagram id="EyykRgJbTBzst2TbG_7H" name="Page-1">
     <mxGraphModel dx="1278" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="oetUtK0mM1qXIEH1qYYt-2" value="" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="420" y="50" width="190" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="wmIor--7g2cavVn0_L6w-4" value="&lt;h1&gt;war simulator&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+        <mxCell id="wmIor--7g2cavVn0_L6w-4" value="&lt;h1&gt;&lt;font face=&quot;Georgia&quot; style=&quot;font-size: 24px&quot;&gt;war simulator&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="440" y="80" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="wmIor--7g2cavVn0_L6w-9" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.sharpArrow2;dy1=0.67;dx1=18;dx2=18;dy3=0.15;dx3=27;notch=0;direction=south;" parent="1" vertex="1">
@@ -36,6 +36,11 @@
         <mxCell id="wmIor--7g2cavVn0_L6w-42" value="-Cuarto modo de juego:se elige un único nombre de manera manual y el resto son completados por la ia, el usuario elige que 2 bots se enfrentan." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Georgia;fontSize=15;" parent="wmIor--7g2cavVn0_L6w-30" vertex="1">
           <mxGeometry y="240" width="300" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="St34alJCIV85MOsY1Ajb-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="wmIor--7g2cavVn0_L6w-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="510" y="430" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="wmIor--7g2cavVn0_L6w-48" value="&lt;br&gt;&lt;span&gt;-Tercer modo de juego:Se introducen manualmente los nombre, el usuario elige que 2 bots se enfrentan.&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Georgia;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="670" y="450" width="250" height="80" as="geometry" />
         </mxCell>
@@ -61,6 +66,23 @@
         </mxCell>
         <mxCell id="St34alJCIV85MOsY1Ajb-3" value="mediante funciones&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="870" y="180" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="St34alJCIV85MOsY1Ajb-5" value="&lt;font face=&quot;Times New Roman&quot; size=&quot;3&quot;&gt;El programa pregunta el número de bots, con los que el jugador va a participar.&lt;br&gt;Ocurre un bucle hasta que solo queda 1 único bot.&lt;br&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};" vertex="1" parent="1">
+          <mxGeometry x="650" y="678" width="550" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="St34alJCIV85MOsY1Ajb-6" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="wmIor--7g2cavVn0_L6w-42">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="620" y="310" as="sourcePoint" />
+            <mxPoint x="650" y="698" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="St34alJCIV85MOsY1Ajb-8" value="&lt;font face=&quot;Times New Roman&quot; size=&quot;3&quot;&gt;La información durante la partida se guarda en ficheros.&lt;/font&gt;" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1">
+          <mxGeometry x="370" y="530" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="St34alJCIV85MOsY1Ajb-9" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;" edge="1" target="St34alJCIV85MOsY1Ajb-8" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="510" y="430" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
