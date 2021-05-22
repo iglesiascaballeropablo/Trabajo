@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-21T13:05:32.743Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36 Edg/90.0.818.62" etag="tjdBcsoU3lOgMcYoPML7" version="14.6.13" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-22T15:10:46.391Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36 Edg/90.0.818.62" etag="t2WSyMoIww6k1e-unDy1" version="14.6.13" type="github">
   <diagram id="EyykRgJbTBzst2TbG_7H" name="Page-1">
     <mxGraphModel dx="1278" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -22,19 +22,19 @@
           <mxGeometry x="410" y="290" width="210" height="120" as="geometry" />
         </mxCell>
         <mxCell id="wmIor--7g2cavVn0_L6w-30" value="seleccion de modo de juego" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontFamily=Georgia;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="650" y="290" width="300" height="310" as="geometry" />
+          <mxGeometry x="650" y="290" width="340" height="350" as="geometry" />
         </mxCell>
         <mxCell id="wmIor--7g2cavVn0_L6w-36" value="&lt;h3&gt;&lt;span style=&quot;font-size: 15px ; font-weight: normal&quot;&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;-Primer modo de juego:Se introducen los nombres de manera manual,la ronda se lleva acabo de manera aleatoria.&lt;/font&gt;&lt;/span&gt;&lt;/h3&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Georgia;fontSize=15;" parent="wmIor--7g2cavVn0_L6w-30" vertex="1">
-          <mxGeometry y="26" width="300" height="74" as="geometry" />
+          <mxGeometry y="26" width="340" height="74" as="geometry" />
         </mxCell>
-        <mxCell id="wmIor--7g2cavVn0_L6w-38" value="&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 13px&quot;&gt;-Segundo modo de juego:solo introduces un nombre y los demas los completa la ia, la ronda se llevará acabo de manera aleatoria&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Georgia;fontSize=15;" parent="wmIor--7g2cavVn0_L6w-30" vertex="1">
-          <mxGeometry y="100" width="300" height="70" as="geometry" />
+        <mxCell id="wmIor--7g2cavVn0_L6w-38" value="&lt;font style=&quot;font-size: 15px&quot;&gt;-Segundo modo de juego:solo introduces un nombre y los demas los completa la ia, la ronda se llevará acabo de manera aleatoria&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Georgia;fontSize=15;" parent="wmIor--7g2cavVn0_L6w-30" vertex="1">
+          <mxGeometry y="100" width="340" height="70" as="geometry" />
         </mxCell>
         <mxCell id="wmIor--7g2cavVn0_L6w-34" value="&lt;h3&gt;&lt;br&gt;&lt;/h3&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="wmIor--7g2cavVn0_L6w-30" vertex="1">
-          <mxGeometry y="170" width="300" height="70" as="geometry" />
+          <mxGeometry y="170" width="340" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="wmIor--7g2cavVn0_L6w-42" value="-Cuarto modo de juego:se elige un único nombre de manera manual y el resto son completados por la ia, el usuario elige que 2 bots se enfrentan." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Georgia;fontSize=15;" parent="wmIor--7g2cavVn0_L6w-30" vertex="1">
-          <mxGeometry y="240" width="300" height="70" as="geometry" />
+        <mxCell id="wmIor--7g2cavVn0_L6w-42" value="-Cuarto modo de juego:se elige un único nombre de manera manual y el resto son completados por la ia, el usuario elige que 2 bots se enfrentan.&lt;br&gt;&lt;br&gt;-Quinto modo de jurgo: Se puede continuar la partida anterior." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Georgia;fontSize=15;" parent="wmIor--7g2cavVn0_L6w-30" vertex="1">
+          <mxGeometry y="240" width="340" height="110" as="geometry" />
         </mxCell>
         <mxCell id="St34alJCIV85MOsY1Ajb-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="wmIor--7g2cavVn0_L6w-25">
           <mxGeometry relative="1" as="geometry">
@@ -42,10 +42,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="wmIor--7g2cavVn0_L6w-48" value="&lt;br&gt;&lt;span&gt;-Tercer modo de juego:Se introducen manualmente los nombre, el usuario elige que 2 bots se enfrentan.&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Georgia;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="670" y="450" width="250" height="80" as="geometry" />
+          <mxGeometry x="670" y="450" width="310" height="80" as="geometry" />
         </mxCell>
         <mxCell id="wmIor--7g2cavVn0_L6w-49" value="en el caso que se elijan dos nombres incorrectos el programa te avisará del error, pidiéndote que los vuelvas a introducir" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};fontFamily=Georgia;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="970" y="350" width="280" height="135" as="geometry" />
+          <mxGeometry x="1040" y="350" width="240" height="120" as="geometry" />
         </mxCell>
         <mxCell id="wmIor--7g2cavVn0_L6w-50" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;fontFamily=Georgia;fontSize=15;exitX=1.003;exitY=0.905;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="wmIor--7g2cavVn0_L6w-36" target="wmIor--7g2cavVn0_L6w-49" edge="1">
           <mxGeometry relative="1" as="geometry">
